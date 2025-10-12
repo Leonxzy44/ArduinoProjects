@@ -10,3 +10,6 @@ Release date: 7.10.2025.
 
 </p>
 
+<img width="97" height="241" alt="image" src="https://github.com/user-attachments/assets/8c521b33-8f87-44ed-b291-e8c9c8f43869" />
+
+
