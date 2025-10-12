@@ -2,4 +2,4 @@ Here, i will input all of my arduino projects and scripts. Some of them are made
 
 Contributors: Josip Tadić, Marko Ganić, Leon Hodžić (me).
 
-Release date: 30.9.2025.
+Release date: 7.10.2025.
