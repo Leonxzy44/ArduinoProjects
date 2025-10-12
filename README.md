@@ -4,5 +4,9 @@ Contributors: Josip Tadić, Marko Ganić, Leon Hodžić (me).
 
 Release date: 7.10.2025.
 
-<img width="528" height="878" alt="image" src="https://github.com/user-attachments/assets/c7c3726b-034a-4c8f-bf69-2874df10634a" />
+<p align="center">
+
+<img width="692" height="314" alt="image" src="https://github.com/user-attachments/assets/dd009f42-3763-41b6-a227-7d5e7c49d18a" />
+
+</p>
 
